@@ -1,0 +1,29 @@
+body{
+.fondomex{
+    background-image: url(./Mapa_estatal_de_México_\(sin_etiquetas\).webp);
+    background-position: center center; 
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
+.pechugas{
+
+    background-image: url(./pechugas-cordon-bleu.webp);
+    background-position: center center; 
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+
+}
+.asignaturas{
+    background-image: url(./asignatura.webp);
+    background-position: center center; 
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+
+
+
+}
+
+}

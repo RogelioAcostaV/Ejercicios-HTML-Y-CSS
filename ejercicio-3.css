@@ -1,0 +1,15 @@
+body{
+
+    background-image: linear-gradient(rgba(5, 7, 12, 0.75), rgba(5, 7, 12, 0.75)),
+    url(./cambiar-nombre-3.webp);
+    background-position: center center; 
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+.color{
+    color: white;
+}
+.colorh1{
+    color: white;
+}
+}
